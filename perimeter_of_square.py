@@ -1,2 +1,2 @@
 def perimeter(a):
-    return 2*a
+    return 4*a
